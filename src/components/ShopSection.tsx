@@ -22,7 +22,7 @@ const ShopSection = () => {
             <div className="md:w-1/2 p-8">
               <CardHeader>
                 <CardTitle className="text-3xl mb-4">Набор "Путь к себе"</CardTitle>
-                <div className="text-4xl font-bold text-purple-400 mb-4">4 990 ₽</div>
+                <div className="text-4xl font-bold text-purple-400 mb-4">1 500 ₽</div>
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="space-y-3">
