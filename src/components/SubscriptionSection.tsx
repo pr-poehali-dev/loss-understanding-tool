@@ -14,7 +14,7 @@ const SubscriptionSection = () => {
         <Card className="border-purple-100 rounded-3xl shadow-xl bg-gradient-to-br from-white to-purple-50">
           <CardHeader className="text-center pb-8">
             <CardTitle className="text-3xl mb-2">Premium доступ</CardTitle>
-            <div className="text-5xl font-bold text-purple-400 my-4">990 ₽/мес</div>
+            <div className="text-5xl font-bold text-purple-400 my-4">1 800 ₽/мес</div>
             <CardDescription className="text-base">Первый месяц со скидкой 50%</CardDescription>
           </CardHeader>
           <CardContent>

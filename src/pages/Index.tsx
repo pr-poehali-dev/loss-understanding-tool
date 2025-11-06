@@ -38,7 +38,7 @@ const Index = () => {
                 <span className="text-white text-xl">🌸</span>
               </div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-                Путь через утрату
+                Точка опоры
               </h1>
             </div>
             <div className="hidden md:flex gap-6">
@@ -405,7 +405,7 @@ const Index = () => {
           <Card className="border-purple-100 rounded-3xl shadow-xl bg-gradient-to-br from-white to-purple-50">
             <CardHeader className="text-center pb-8">
               <CardTitle className="text-3xl mb-2">Premium доступ</CardTitle>
-              <div className="text-5xl font-bold text-purple-400 my-4">990 ₽/мес</div>
+              <div className="text-5xl font-bold text-purple-400 my-4">1 800 ₽/мес</div>
               <CardDescription className="text-base">Первый месяц со скидкой 50%</CardDescription>
             </CardHeader>
             <CardContent>

@@ -13,7 +13,7 @@ const Navigation = ({ activeSection, scrollToSection }: NavigationProps) => {
               <span className="text-white text-xl">🌸</span>
             </div>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-              Путь через утрату
+              Точка опоры
             </h1>
           </div>
           <div className="hidden md:flex gap-6">

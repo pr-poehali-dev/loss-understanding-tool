@@ -12,7 +12,7 @@ const Footer = ({ scrollToSection }: FooterProps) => {
               <div className="w-8 h-8 bg-gradient-to-br from-purple-300 to-blue-300 rounded-full flex items-center justify-center">
                 <span className="text-white text-lg">🌸</span>
               </div>
-              <h3 className="font-bold text-purple-400">Путь через утрату</h3>
+              <h3 className="font-bold text-purple-400">Точка опоры</h3>
             </div>
             <p className="text-sm text-gray-600">Поддержка на каждом этапе</p>
           </div>
@@ -40,7 +40,7 @@ const Footer = ({ scrollToSection }: FooterProps) => {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-purple-200 text-center text-sm text-gray-600">
-          © 2024 Путь через утрату. Все права защищены.
+          © 2024 Точка опоры. Все права защищены.
         </div>
       </div>
     </footer>
